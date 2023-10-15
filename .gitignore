@@ -1,0 +1,9 @@
+__pycache__
+migrations
+versions
+
+.DS_Store
+venv
+.env
+node_modules
+package-lock.json
